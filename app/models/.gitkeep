@@ -1,0 +1,2 @@
+# This directory stores trained ML model files (.pkl)
+# Run `python notebooks/train.py` to generate models.

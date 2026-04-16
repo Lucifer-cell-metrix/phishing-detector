@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ML Models (generated)
+app/models/*.pkl
+
+# Database
+*.db
+users.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (React frontend)
+frontend/react-app/node_modules/
+frontend/react-app/dist/
+frontend/react-app/.env
+
+# Jupyter
+.ipynb_checkpoints/
